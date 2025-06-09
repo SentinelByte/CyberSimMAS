@@ -67,7 +67,7 @@ MIT License — free to use and modify.
 
 ## 🙋‍♂️ About
 
-Built by security engineers exploring multi-agent systems for autonomous defense, cloud remediation, and adversarial simulation.
+Built by security engineer that exploring Multi-Sgent Systems for autonomous defense, cloud remediation, and adversarial simulation.
 
 ````
 
@@ -112,20 +112,8 @@ colorama
 
 ## 🏷️ GitHub Tags and Topics
 
-Add these when creating the repo:
+Repo Tags:
 
 ```
-cybersecurity, multi-agent-system, reinforcement-learning, red-team, blue-team, simulation, python, cloud-security
+cybersecurity, multi-agent-system, red-team, blue-team, simulation, python, cloud-security
 ```
-
----
-
-## ✅ Next Steps
-
-Let me know if you’d like:
-
-* A **public GitHub template repo** I can generate for you
-* GitHub Actions to auto-run test simulations
-* Integration with notebooks or Docker setup
-
-Ready to push? I can help create the initial commit structure.
