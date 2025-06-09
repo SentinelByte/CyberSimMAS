@@ -1,0 +1,6 @@
+# Minimal dependencies for now
+# Useful for later: 
+#   gym
+#   pettingzoo
+#   ray[rllib]
+#   matplotlib
