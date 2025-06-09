@@ -1,0 +1,12 @@
+cyber_mas_project/
+├── agents/
+│   ├── attacker.py
+│   └── defender.py
+├── env/
+│   ├── network.py
+│   └── node.py
+├── core/
+│   ├── simulation.py
+│   └── utils.py
+├── run.py
+└── requirements.txt
