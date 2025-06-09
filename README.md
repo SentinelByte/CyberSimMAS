@@ -27,8 +27,7 @@ cyber-mas-sim/
 │   └── network.py (optional)
 ├── run.py             # Entrypoint to run the simulation
 ├── requirements.txt   # Python dependencies
-├── README.md
-└── LICENSE (optional)
+|__ README.md
 
 ````
 
