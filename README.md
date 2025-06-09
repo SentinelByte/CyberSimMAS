@@ -1,7 +1,7 @@
 # 🛡️ Cyber MAS Sim
 
 ## Multi Agent System Simulation for CyberSecurity WF
-## SentinelByte 2025 (dancohvax)
+### SentinelByte 2025 (dancohvax)
 
 A lightweight simulation framework for modeling attacker and defender agents in a cybersecurity environment. Built from scratch to support reinforcement learning, automation, and cloud security training scenarios.
 
