@@ -23,7 +23,7 @@ cyber-mas-sim/
 ├── agents/            # Attacker and Defender agents
 │   ├── attacker.py
 │   └── defender.py
-├── core/              # Simulation engine and utilities
+├── core/              # Simulation engine & utilities
 │   ├── simulation.py
 │   └── utils.py (optional)
 ├── env/               # Simulated environment (nodes, network)
@@ -41,8 +41,8 @@ cyber-mas-sim/
 
 ### 1. Clone and Setup
 ```bash
-git clone https://github.com/SentinelByte/cyber-mas-sim.git
-cd cyber-mas-sim
+git clone https://github.com/SentinelByte/cyberMasSim.git
+cd cyberMasSim
 python3 -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -71,46 +71,28 @@ MIT License — free to use and modify.
 
 ## 🙋‍♂️ About
 
-Built by security engineer that exploring Multi-Sgent Systems for autonomous defense, cloud remediation, and adversarial simulation.
+Built by SentinelByte. 
+
+Exploring Multi Agent Systems (MAS) for autonomous defense, cloud remediation, and adversarial simulation.
 
 ````
+gitignore
 
----
-
-## 📁 `.gitignore`
-
-```gitignore
-# Python
+## Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.log
 
-# Env
+## Envs
 venv/
 .env
 
-# IDEs
+## IDEs
 .vscode/
 .idea/
 ````
-
----
-
-## 📜 `requirements.txt`
-
-```txt
-# Core Python requirements
-```
-
-You can leave it empty for now or include:
-
-```txt
-colorama
-```
-
-(for colored terminal output later)
 
 ---
 
@@ -119,5 +101,5 @@ colorama
 Repo Tags:
 
 ```
-cybersecurity, multi-agent-system, red-team, blue-team, simulation, python, cloud-security
+cybersecurity, multi-agent-system, red-team, blue-team, simulation, python, cloud-security, SentinelByte
 ```
